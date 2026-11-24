@@ -26,10 +26,10 @@ define( 'DB_NAME', 'database_name_here' );
 define( 'DB_USER', 'username_here' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'password_here' );
+define( 'DB_PASSWORD', 'JesusSaves7717$' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'wordpress-1.c4diqgqumwgc.us-east-1.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8mb4' );
@@ -48,14 +48,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         'put your unique phrase here' );
-define( 'SECURE_AUTH_KEY',  'put your unique phrase here' );
-define( 'LOGGED_IN_KEY',    'put your unique phrase here' );
-define( 'NONCE_KEY',        'put your unique phrase here' );
-define( 'AUTH_SALT',        'put your unique phrase here' );
-define( 'SECURE_AUTH_SALT', 'put your unique phrase here' );
-define( 'LOGGED_IN_SALT',   'put your unique phrase here' );
-define( 'NONCE_SALT',       'put your unique phrase here' );
+define( 'AUTH_KEY',         '_s4jF~K++3![YF2ig7o4j_vNV!Mj&([tDKn0;A~0lz>RH34VdoD0P<uiq$C}zS@m' );
+define( 'SECURE_AUTH_KEY',  'tk|N-ta8a|@zCY,R70l[Gjq#6|0cl^T#!&>!`*IeN{.#L:U#n4SYUwQ6J+H:z$l1' );
+define( 'LOGGED_IN_KEY',    '|NT&pV?u;L1|G+pp;o6JN+x}:BT-jul!xjU;vy  ^/RVCk)R(wly>jvj]:oR-8e-' );
+define( 'NONCE_KEY',        'f|>j9+;91-2ln}B.ECGuVnO.z`u|Qd|Wzu2u+)w6cK+ds2h6wY$(:W~RXpIadEaL' );
+define( 'AUTH_SALT',        'DGdK-v8729J<+_x_&n_|s5}YYks!(O!|MI|0;&QK?yv!4aqtB36:FJ*+@M;.lvrt' );
+define( 'SECURE_AUTH_SALT', '=r,CqN}hNLw~bZy89Wtq_pDLY9WkQ}#-qNe-+9G7=;M,8<vDBa(|UdJ S8~SLxK-' );
+define( 'LOGGED_IN_SALT',   '.WHs`=:_Hb}A++-6gh+qP+]| <4DV9n[+fgQ!Kz(U`HF-ww#jYs--y+8{RH24Z`y' );
+define( 'NONCE_SALT',       '2GyKQ2%q-f#3^~*Fq-bLG$BNp`QtYSnY&Y`:*}s1t9<4S#Q38.R=s;5qaJA{;g<1' );
 
 /**#@-*/
 
